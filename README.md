@@ -11,17 +11,17 @@ A Version of Hipster CV featuring a timeline.
 These images are in the CV just for demonstration.
 Please replace them with your own photos and logos if you use this template!
 
-# Preview 
-![Timeline CV](https://github.com/latex-ninja/hipster-cv/blob/master/previews/modern-simple-cv.png)
+# Preview (withoutsidebar option)
+![Timeline CV](https://github.com/latex-ninja/simple-hipstercv/blob/master/withoutsidebar.png)
 
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
-		<th><code>without image</code> and <code>with image</code></th>
+		<th>Classic: <code>darkhipster</code> and <code>lighthipster</code></th>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/latex-ninja/hipster-cv/blob/master/previews/academic-cvs.png" 
-				alt="Simple Academic CV"
+			<img src="https://github.com/latex-ninja/simple-hipstercv/blob/master/hipster-styles.png" 
+				alt="Simple HipsterCV Template Classic"
 				height="300"/>
 		</td>
 	</tr>			
@@ -29,12 +29,38 @@ Please replace them with your own photos and logos if you use this template!
 
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
-		<th><code>Version 2</code></th>
+		<th>Pastels: <code>pastel</code> and <code>verylight</code></th>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/latex-ninja/simple-academic-resume/blob/master/simple-acad-cv.png" 
-				alt="Simple Academic CV"
+			<img src="https://github.com/latex-ninja/simple-hipstercv/blob/master/pastels.png" 
+				alt="Simple HipsterCV Template Pastels"
+				height="300" />
+		</td>
+	</tr>			
+</table>
+
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Dark versions: <code>allblack</code> and <code>grey</code></th>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/latex-ninja/simple-hipstercv/blob/master/darks.png" 
+				alt="Simple HipsterCV Template Dark" 
+				height="300"/>
+		</td>
+	</tr>			
+</table>
+
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Comparison to the original Hipster CV: <code>Simple Hipster</code> versus <code>Simple Hipster</code></th>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/latex-ninja/simple-hipstercv/blob/master/comparison-hipster-simple.png" 
+				alt="Comparison Simple Hipster vs Hipster CV"
 				height="300"/>
 		</td>
 	</tr>			
