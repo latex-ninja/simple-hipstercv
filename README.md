@@ -2,10 +2,6 @@
 A more simple, lightweight and a little bit different version of the Hipster CV
 
 
-# timelinecv
-A Version of Hipster CV featuring a timeline.
-
-
 *Image credits for the example images goes to Disney!*
 
 These images are in the CV just for demonstration.
